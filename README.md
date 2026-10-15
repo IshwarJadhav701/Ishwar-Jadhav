@@ -1,4 +1,4 @@
-# Hi there, I'm Jishwar 👋
+# Hi there, I'm ishwar 👋
 
 Frontend Developer building clean, responsive user interfaces with modern JavaScript, React.js, and SQL database workflows.
 
